@@ -6,7 +6,7 @@
 
 
 
-CampusCart is a command-line platform that helps campus vendors manage menus and receive student orders.
+CampusCart is a command-line platform that connects students with campus vendors to compare products, manage menus, and place affordable orders.
 
 
 
