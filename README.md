@@ -54,6 +54,16 @@ Students need an easy way to find available campus vendors and products. Vendors
 
 Welcome to CampusCart
 
+## User Personas
+
+### Student
+
+A student needs a fast way to find affordable food and products between classes.
+
+### Vendor
+
+A vendor needs a simple way to list products and receive orders from students.
+
 
 
 1\. View vendors
