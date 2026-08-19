@@ -46,14 +46,6 @@ Students need an easy way to find available campus vendors and products. Vendors
 
 
 
-\## Proposed CLI Flow
-
-
-
-```text
-
-Welcome to CampusCart
-
 ## User Personas
 
 ### Student
@@ -64,19 +56,15 @@ A student needs a fast way to find affordable food and products between classes.
 
 A vendor needs a simple way to list products and receive orders from students.
 
+## Proposed CLI Flow
 
+```text
+Welcome to CampusCart
 
-1\. View vendors
-
-2\. Browse products
-
-3\. View cart
-
-4\. Place order
-
-5\. Exit
-
-
+1. View vendors
+2. Browse products
+3. View cart
+4. Place order
+5. Exit
 
 Choose an option:
-
