@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Campus Cafe",
+    "category": "Food & Drinks"
+  },
+  {
+    "id": 2,
+    "name": "Book Nook",
+    "category": "Books & Stationery"
+  },
+  {
+    "id": 3,
+    "name": "Tech Hub",
+    "category": "Electronics"
+  }
+]
